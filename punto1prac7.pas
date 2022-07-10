@@ -13,7 +13,7 @@ existir. Invocar dicho módulo en el programa principal.}
 program punto1prac7;
 
 type
-	gen = 1..5;
+	gen = 1..5;asd
 	persona = record
 		DNI : integer;
 		ApNom : string[30];
